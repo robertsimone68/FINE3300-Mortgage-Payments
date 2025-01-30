@@ -1,2 +1,2 @@
-# NE3300-Mortgage-Payments
+# FINE3300-Mortgage-Payments
 Programming Assignment #1
